@@ -1,14 +1,14 @@
 {
   "title": "Right Click Translate",
   "name": "right-click-translate",
-  "version": "0.3.0",
+  "id": "jid1-hhBMO3ij7xRsEw@jetpack",
+  "version": "0.3.2",
   "description": "Highlight some text on a web page, right click the mouse and select 'Translate' from the menu or tap the 't' key, a Google Translate tab will open with your chosen language.",
   "main": "index.js",
   "author": "Ros Mc Mahon (http://rosmcmahon.com)",
   "homepage": "http://rosrants.com/right-click-translate-firefox-add-on/",
   "engines": {
-    "firefox": ">=38.0a1",
-    "fennec": ">=38.0a1"
+    "firefox": ">=38.0a1"
   },
   "license": "GPL 2.0",
   "keywords": [
